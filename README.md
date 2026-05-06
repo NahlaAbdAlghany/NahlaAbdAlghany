@@ -55,16 +55,6 @@ focus_areas:
   - GitOps workflows with ArgoCD & Flux
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nahla's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on interesting DevOps and cloud infrastructure projects!
@@ -78,11 +68,3 @@ I'm always interested in collaborating on interesting DevOps and cloud infrastru
 </div>
 
 ---
-
-<div align="center">
-
-### ⭐ Check out my pinned repositories below!
-
-*"Infrastructure as code is not just about automation; it's about creating reproducible, testable, and maintainable systems."*
-
-</div>
